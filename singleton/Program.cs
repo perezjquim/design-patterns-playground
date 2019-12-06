@@ -6,10 +6,10 @@ namespace singleton
     {
         static void Main(string[] args)
         {
-            Application a = Application.GetInstance();
+            Application a = Application.mInstance;
             a.Test();
 
-            Application b = Application.GetInstance();
+            Application b = Application.mInstance;
             b.Test();            
         }
     }

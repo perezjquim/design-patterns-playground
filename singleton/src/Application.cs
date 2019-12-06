@@ -4,24 +4,8 @@ namespace singleton
 {
     sealed class Application
     {
-        private static readonly object mLock = new object();
-        private static Application mApplication;
-
-        static Application() {}
+        public static Application mInstance { get; } = new Application(); 
         private Application() {}
-
-        public static Application GetInstance()
-        {
-            lock(mLock)
-            {
-                if(mApplication == null)
-                {
-                    mApplication = new Application();
-                }
-                return mApplication;
-            }
-        }
-
         public void Test()
         {
             Console.WriteLine("great success!");
