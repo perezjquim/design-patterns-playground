@@ -1,0 +1,11 @@
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/proxy/bin/Debug/netcoreapp2.2/proxy.deps.json
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/proxy/bin/Debug/netcoreapp2.2/proxy.runtimeconfig.json
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/proxy/bin/Debug/netcoreapp2.2/proxy.runtimeconfig.dev.json
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/proxy/bin/Debug/netcoreapp2.2/proxy.dll
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/proxy/bin/Debug/netcoreapp2.2/proxy.pdb
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/proxy/obj/Debug/netcoreapp2.2/proxy.csprojAssemblyReference.cache
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/proxy/obj/Debug/netcoreapp2.2/proxy.csproj.CoreCompileInputs.cache
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/proxy/obj/Debug/netcoreapp2.2/proxy.AssemblyInfoInputs.cache
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/proxy/obj/Debug/netcoreapp2.2/proxy.AssemblyInfo.cs
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/proxy/obj/Debug/netcoreapp2.2/proxy.dll
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/proxy/obj/Debug/netcoreapp2.2/proxy.pdb

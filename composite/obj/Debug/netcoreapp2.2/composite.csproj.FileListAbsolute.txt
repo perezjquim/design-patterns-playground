@@ -1,0 +1,11 @@
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/composite/bin/Debug/netcoreapp2.2/composite.deps.json
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/composite/bin/Debug/netcoreapp2.2/composite.runtimeconfig.json
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/composite/bin/Debug/netcoreapp2.2/composite.runtimeconfig.dev.json
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/composite/bin/Debug/netcoreapp2.2/composite.dll
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/composite/bin/Debug/netcoreapp2.2/composite.pdb
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/composite/obj/Debug/netcoreapp2.2/composite.csprojAssemblyReference.cache
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/composite/obj/Debug/netcoreapp2.2/composite.csproj.CoreCompileInputs.cache
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/composite/obj/Debug/netcoreapp2.2/composite.AssemblyInfoInputs.cache
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/composite/obj/Debug/netcoreapp2.2/composite.AssemblyInfo.cs
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/composite/obj/Debug/netcoreapp2.2/composite.dll
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/composite/obj/Debug/netcoreapp2.2/composite.pdb

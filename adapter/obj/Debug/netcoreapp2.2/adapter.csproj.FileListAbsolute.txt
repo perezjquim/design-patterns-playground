@@ -1,0 +1,11 @@
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/adapter/bin/Debug/netcoreapp2.2/adapter.deps.json
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/adapter/bin/Debug/netcoreapp2.2/adapter.runtimeconfig.json
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/adapter/bin/Debug/netcoreapp2.2/adapter.runtimeconfig.dev.json
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/adapter/bin/Debug/netcoreapp2.2/adapter.dll
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/adapter/bin/Debug/netcoreapp2.2/adapter.pdb
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/adapter/obj/Debug/netcoreapp2.2/adapter.csprojAssemblyReference.cache
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/adapter/obj/Debug/netcoreapp2.2/adapter.csproj.CoreCompileInputs.cache
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/adapter/obj/Debug/netcoreapp2.2/adapter.AssemblyInfoInputs.cache
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/adapter/obj/Debug/netcoreapp2.2/adapter.AssemblyInfo.cs
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/adapter/obj/Debug/netcoreapp2.2/adapter.dll
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/adapter/obj/Debug/netcoreapp2.2/adapter.pdb

@@ -1,0 +1,11 @@
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/iterator/bin/Debug/netcoreapp2.2/iterator.deps.json
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/iterator/bin/Debug/netcoreapp2.2/iterator.runtimeconfig.json
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/iterator/bin/Debug/netcoreapp2.2/iterator.runtimeconfig.dev.json
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/iterator/bin/Debug/netcoreapp2.2/iterator.dll
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/iterator/bin/Debug/netcoreapp2.2/iterator.pdb
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/iterator/obj/Debug/netcoreapp2.2/iterator.csprojAssemblyReference.cache
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/iterator/obj/Debug/netcoreapp2.2/iterator.csproj.CoreCompileInputs.cache
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/iterator/obj/Debug/netcoreapp2.2/iterator.AssemblyInfoInputs.cache
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/iterator/obj/Debug/netcoreapp2.2/iterator.AssemblyInfo.cs
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/iterator/obj/Debug/netcoreapp2.2/iterator.dll
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/iterator/obj/Debug/netcoreapp2.2/iterator.pdb

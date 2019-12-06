@@ -1,0 +1,11 @@
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/observer/bin/Debug/netcoreapp2.2/observer.deps.json
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/observer/bin/Debug/netcoreapp2.2/observer.runtimeconfig.json
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/observer/bin/Debug/netcoreapp2.2/observer.runtimeconfig.dev.json
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/observer/bin/Debug/netcoreapp2.2/observer.dll
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/observer/bin/Debug/netcoreapp2.2/observer.pdb
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/observer/obj/Debug/netcoreapp2.2/observer.csprojAssemblyReference.cache
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/observer/obj/Debug/netcoreapp2.2/observer.csproj.CoreCompileInputs.cache
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/observer/obj/Debug/netcoreapp2.2/observer.AssemblyInfoInputs.cache
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/observer/obj/Debug/netcoreapp2.2/observer.AssemblyInfo.cs
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/observer/obj/Debug/netcoreapp2.2/observer.dll
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/observer/obj/Debug/netcoreapp2.2/observer.pdb

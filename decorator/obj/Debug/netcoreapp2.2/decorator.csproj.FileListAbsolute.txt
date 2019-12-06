@@ -1,0 +1,11 @@
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/decorator/obj/Debug/netcoreapp2.2/decorator.csprojAssemblyReference.cache
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/decorator/obj/Debug/netcoreapp2.2/decorator.csproj.CoreCompileInputs.cache
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/decorator/obj/Debug/netcoreapp2.2/decorator.AssemblyInfoInputs.cache
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/decorator/obj/Debug/netcoreapp2.2/decorator.AssemblyInfo.cs
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/decorator/bin/Debug/netcoreapp2.2/decorator.deps.json
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/decorator/bin/Debug/netcoreapp2.2/decorator.runtimeconfig.json
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/decorator/bin/Debug/netcoreapp2.2/decorator.runtimeconfig.dev.json
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/decorator/bin/Debug/netcoreapp2.2/decorator.dll
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/decorator/bin/Debug/netcoreapp2.2/decorator.pdb
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/decorator/obj/Debug/netcoreapp2.2/decorator.dll
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/decorator/obj/Debug/netcoreapp2.2/decorator.pdb

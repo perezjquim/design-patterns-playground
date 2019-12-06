@@ -1,0 +1,11 @@
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/factory/bin/Debug/netcoreapp2.2/factory.deps.json
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/factory/bin/Debug/netcoreapp2.2/factory.runtimeconfig.json
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/factory/bin/Debug/netcoreapp2.2/factory.runtimeconfig.dev.json
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/factory/bin/Debug/netcoreapp2.2/factory.dll
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/factory/bin/Debug/netcoreapp2.2/factory.pdb
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/factory/obj/Debug/netcoreapp2.2/factory.csprojAssemblyReference.cache
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/factory/obj/Debug/netcoreapp2.2/factory.csproj.CoreCompileInputs.cache
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/factory/obj/Debug/netcoreapp2.2/factory.AssemblyInfoInputs.cache
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/factory/obj/Debug/netcoreapp2.2/factory.AssemblyInfo.cs
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/factory/obj/Debug/netcoreapp2.2/factory.dll
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/factory/obj/Debug/netcoreapp2.2/factory.pdb

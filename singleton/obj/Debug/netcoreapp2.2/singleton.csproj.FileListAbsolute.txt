@@ -1,0 +1,11 @@
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/singleton/bin/Debug/netcoreapp2.2/singleton.deps.json
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/singleton/bin/Debug/netcoreapp2.2/singleton.runtimeconfig.json
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/singleton/bin/Debug/netcoreapp2.2/singleton.runtimeconfig.dev.json
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/singleton/bin/Debug/netcoreapp2.2/singleton.dll
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/singleton/bin/Debug/netcoreapp2.2/singleton.pdb
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/singleton/obj/Debug/netcoreapp2.2/singleton.csprojAssemblyReference.cache
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/singleton/obj/Debug/netcoreapp2.2/singleton.csproj.CoreCompileInputs.cache
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/singleton/obj/Debug/netcoreapp2.2/singleton.AssemblyInfoInputs.cache
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/singleton/obj/Debug/netcoreapp2.2/singleton.AssemblyInfo.cs
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/singleton/obj/Debug/netcoreapp2.2/singleton.dll
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/singleton/obj/Debug/netcoreapp2.2/singleton.pdb

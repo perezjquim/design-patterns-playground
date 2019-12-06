@@ -1,0 +1,11 @@
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/facade/bin/Debug/netcoreapp2.2/facade.deps.json
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/facade/bin/Debug/netcoreapp2.2/facade.runtimeconfig.json
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/facade/bin/Debug/netcoreapp2.2/facade.runtimeconfig.dev.json
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/facade/bin/Debug/netcoreapp2.2/facade.dll
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/facade/bin/Debug/netcoreapp2.2/facade.pdb
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/facade/obj/Debug/netcoreapp2.2/facade.csprojAssemblyReference.cache
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/facade/obj/Debug/netcoreapp2.2/facade.csproj.CoreCompileInputs.cache
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/facade/obj/Debug/netcoreapp2.2/facade.AssemblyInfoInputs.cache
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/facade/obj/Debug/netcoreapp2.2/facade.AssemblyInfo.cs
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/facade/obj/Debug/netcoreapp2.2/facade.dll
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/facade/obj/Debug/netcoreapp2.2/facade.pdb
