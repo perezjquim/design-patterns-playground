@@ -1,0 +1,11 @@
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/chain-of-responsibility/bin/Debug/netcoreapp2.2/chain-of-responsibility.deps.json
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/chain-of-responsibility/bin/Debug/netcoreapp2.2/chain-of-responsibility.runtimeconfig.json
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/chain-of-responsibility/bin/Debug/netcoreapp2.2/chain-of-responsibility.runtimeconfig.dev.json
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/chain-of-responsibility/bin/Debug/netcoreapp2.2/chain-of-responsibility.dll
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/chain-of-responsibility/bin/Debug/netcoreapp2.2/chain-of-responsibility.pdb
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/chain-of-responsibility/obj/Debug/netcoreapp2.2/chain-of-responsibility.csprojAssemblyReference.cache
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/chain-of-responsibility/obj/Debug/netcoreapp2.2/chain-of-responsibility.csproj.CoreCompileInputs.cache
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/chain-of-responsibility/obj/Debug/netcoreapp2.2/chain-of-responsibility.AssemblyInfoInputs.cache
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/chain-of-responsibility/obj/Debug/netcoreapp2.2/chain-of-responsibility.AssemblyInfo.cs
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/chain-of-responsibility/obj/Debug/netcoreapp2.2/chain-of-responsibility.dll
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/chain-of-responsibility/obj/Debug/netcoreapp2.2/chain-of-responsibility.pdb
