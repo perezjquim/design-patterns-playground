@@ -1,0 +1,11 @@
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/prototype/bin/Debug/netcoreapp2.2/prototype.deps.json
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/prototype/bin/Debug/netcoreapp2.2/prototype.runtimeconfig.json
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/prototype/bin/Debug/netcoreapp2.2/prototype.runtimeconfig.dev.json
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/prototype/bin/Debug/netcoreapp2.2/prototype.dll
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/prototype/bin/Debug/netcoreapp2.2/prototype.pdb
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/prototype/obj/Debug/netcoreapp2.2/prototype.csprojAssemblyReference.cache
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/prototype/obj/Debug/netcoreapp2.2/prototype.csproj.CoreCompileInputs.cache
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/prototype/obj/Debug/netcoreapp2.2/prototype.AssemblyInfoInputs.cache
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/prototype/obj/Debug/netcoreapp2.2/prototype.AssemblyInfo.cs
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/prototype/obj/Debug/netcoreapp2.2/prototype.dll
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/prototype/obj/Debug/netcoreapp2.2/prototype.pdb
