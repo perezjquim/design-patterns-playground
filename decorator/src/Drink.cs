@@ -2,12 +2,9 @@ namespace decorator
 {
     abstract class Drink
     {
-        public Drink mContent { get; set; }
+        public Drink mContent { get; }
 
-        public Drink()
-        { }
-
-        public Drink(Drink aDrink)
+        public Drink(Drink aDrink = null)
         {
             mContent = aDrink;
         }
@@ -16,7 +13,7 @@ namespace decorator
 
         public void Finish()
         {
-            if(mContent != null )
+            if (mContent != null)
             {
                 mContent.Finish();
             }
