@@ -9,14 +9,9 @@ namespace observer
             Console.WriteLine($"WebWeatherWidget presents...{aObject.ToString()}");
         }
 
-        public void OnNotified(object aObject)
+        public void OnNotified(object aObject = null)
         {
             this.Display(aObject);
-        }
-
-        public void OnNotified()
-        {
-            this.Display("refreshhh");
-        }        
+        }   
     }
 }

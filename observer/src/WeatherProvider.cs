@@ -21,15 +21,7 @@ namespace observer
             mObservers.Remove(aObserver);
         }
 
-        public void Notify()
-        {
-            foreach(IObserver observer in mObservers)
-            {
-                observer.OnNotified();
-            }
-        }
-
-        public void Notify(object aObject)
+        public void Notify(object aObject = null)
         {
             foreach(IObserver observer in mObservers)
             {

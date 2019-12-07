@@ -2,8 +2,6 @@ namespace observer
 {
     interface IObserver
     {
-        void OnNotified(object aObject);
-
-        void OnNotified();
+        void OnNotified(object aObject = null);
     }
 }
