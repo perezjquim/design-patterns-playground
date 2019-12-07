@@ -1,0 +1,11 @@
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/memento/bin/Debug/netcoreapp2.2/memento.deps.json
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/memento/bin/Debug/netcoreapp2.2/memento.runtimeconfig.json
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/memento/bin/Debug/netcoreapp2.2/memento.runtimeconfig.dev.json
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/memento/bin/Debug/netcoreapp2.2/memento.dll
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/memento/bin/Debug/netcoreapp2.2/memento.pdb
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/memento/obj/Debug/netcoreapp2.2/memento.csprojAssemblyReference.cache
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/memento/obj/Debug/netcoreapp2.2/memento.csproj.CoreCompileInputs.cache
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/memento/obj/Debug/netcoreapp2.2/memento.AssemblyInfoInputs.cache
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/memento/obj/Debug/netcoreapp2.2/memento.AssemblyInfo.cs
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/memento/obj/Debug/netcoreapp2.2/memento.dll
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/memento/obj/Debug/netcoreapp2.2/memento.pdb
