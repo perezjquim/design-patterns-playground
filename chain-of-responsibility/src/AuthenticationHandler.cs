@@ -6,17 +6,26 @@ namespace chain_of_responsibility
     {
         public override object Handle(object aArgs)
         {
-            Console.WriteLine("checking authentication..");
 
-            if (CheckAuthentication(aArgs))
+
+            if (aArgs.ToString() == "authentication")
             {
-                Console.WriteLine("authentication OK!");
-                return base.Handle(aArgs);
+                Console.WriteLine("checking authentication..");
+
+                if (CheckAuthentication(aArgs))
+                {
+                    Console.WriteLine("authentication OK!");
+                    return "success!";
+                }
+                else
+                {
+                    Console.WriteLine("authentication failed!");
+                    return "fail!";
+                }
             }
             else
             {
-                Console.WriteLine("authentication failed!");
-                return null;
+                return base.Handle(aArgs);
             }
         }
 

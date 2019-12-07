@@ -6,17 +6,24 @@ namespace chain_of_responsibility
     {
         public override object Handle(object aArgs)
         {
-            Console.WriteLine("checking cache..");
-
-            if (CheckCache(aArgs))
+            if (aArgs.ToString() == "cache")
             {
-                Console.WriteLine("cache checked!");
-                return base.Handle(aArgs);
+                Console.WriteLine("checking cache..");
+
+                if (CheckCache(aArgs))
+                {
+                    Console.WriteLine("cache checked!");
+                    return "success!";
+                }
+                else
+                {
+                    Console.WriteLine("cache failed!");
+                    return "fail!";
+                }
             }
             else
             {
-                Console.WriteLine("cache failed!");
-                return null;
+                return base.Handle(aArgs);
             }
         }
 

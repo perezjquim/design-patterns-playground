@@ -6,18 +6,26 @@ namespace chain_of_responsibility
     {
         public override object Handle(object aArgs)
         {
-            Console.WriteLine("validating..");
-
-            if (Validate(aArgs))
+            if (aArgs.ToString() == "validation")
             {
-                Console.WriteLine("validated!");
-                return base.Handle(aArgs);
+                Console.WriteLine("validating..");
+
+                if (Validate(aArgs))
+                {
+                    Console.WriteLine("validated!");
+                    return "success!";
+                }
+                else
+                {
+                    Console.WriteLine("validation failed!");
+                    return "failed!";
+                }
             }
             else
             {
-                Console.WriteLine("validation failed!");
-                return null;
+                return base.Handle(aArgs);
             }
+
         }
 
         public bool Validate(object aArgs)

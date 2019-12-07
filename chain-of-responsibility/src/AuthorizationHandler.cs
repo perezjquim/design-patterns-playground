@@ -6,17 +6,23 @@ namespace chain_of_responsibility
     {
         public override object Handle(object aArgs)
         {
-            Console.WriteLine("checking authorization..");
-
-            if (CheckAuthorization(aArgs))
+            if (aArgs.ToString() == "authorization")
             {
-                Console.WriteLine("authorization granted!");
-                return base.Handle(aArgs);
+                Console.WriteLine("checking authorization..");
+                if (CheckAuthorization(aArgs))
+                {
+                    Console.WriteLine("authorization granted!");
+                    return "success!";
+                }
+                else
+                {
+                    Console.WriteLine("authorization not granted!");
+                    return "fail!";
+                }
             }
             else
             {
-                Console.WriteLine("authorization not granted!");
-                return null;
+                return base.Handle(aArgs);
             }
         }
 

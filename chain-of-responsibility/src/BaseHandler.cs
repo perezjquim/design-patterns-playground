@@ -1,3 +1,5 @@
+using System;
+
 namespace chain_of_responsibility
 {
     abstract class BaseHandler : IHandler
@@ -8,10 +10,12 @@ namespace chain_of_responsibility
         {
             if(mNextHandler != null)
             {
+                Console.WriteLine("passing to the next handler..");
                 return mNextHandler.Handle(aArgs);
             }
             else
             {
+                Console.WriteLine("unhandled :(");
                 return null;
             }
         }
