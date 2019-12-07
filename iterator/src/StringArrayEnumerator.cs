@@ -2,24 +2,24 @@ using System.Collections.Generic;
 
 namespace iterator
 {
-    class StringArrayEnumerator : IEnumerator<string>
+    class StringArrayEnumerator : IEnumerator
     {
         private int mIndex = 0;
-        private List<string> mContent;
+        private StringArray mEnumerable;
 
-        public StringArrayEnumerator(List<string> aContent)
+        public StringArrayEnumerator(StringArray aEnumerable)
         {
-            mContent = aContent;
+            mEnumerable = aEnumerable;
         }
 
         public bool HasNext()
         {
-            return mIndex < mContent.Count;
+            return mIndex < mEnumerable.mContent.Count;
         }
 
-        public string GetNext()
+        public object GetNext()
         {
-            string next = mContent.ToArray()[mIndex];
+            string next = mEnumerable.mContent.ToArray()[mIndex];
             mIndex++;
             return next;
         }

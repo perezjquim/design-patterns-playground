@@ -11,7 +11,7 @@ namespace iterator
                 .Add("str1")
                 .Add("str2");
 
-            IEnumerator<string> enumerator = enumerable.GetEnumerator();
+            IEnumerator enumerator = enumerable.GetEnumerator();
 
             while(enumerator.HasNext())
             {

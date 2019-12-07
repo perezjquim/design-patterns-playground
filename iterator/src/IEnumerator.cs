@@ -1,9 +1,9 @@
 namespace iterator
 {
-    interface IEnumerator<T>
+    interface IEnumerator
     {
         bool HasNext();
 
-        T GetNext();
+        object GetNext();
     }
 }

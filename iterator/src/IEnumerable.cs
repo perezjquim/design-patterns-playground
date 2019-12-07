@@ -1,7 +1,7 @@
 namespace iterator
 {
-    interface IEnumerable<T>
+    interface IEnumerable
     {
-        IEnumerator<T> GetEnumerator();
+        IEnumerator GetEnumerator();
     }
 }

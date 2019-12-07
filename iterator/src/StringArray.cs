@@ -2,7 +2,7 @@ using System.Collections.Generic;
 
 namespace iterator
 {
-    class StringArray : IEnumerable<string>
+    class StringArray : IEnumerable
     {
         public List<string> mContent { get; set; }
 
@@ -23,9 +23,9 @@ namespace iterator
             return mContent;
         }
 
-        public IEnumerator<string> GetEnumerator()
+        public IEnumerator GetEnumerator()
         {
-            return new StringArrayEnumerator(mContent);
+            return new StringArrayEnumerator(this);
         }
     }
 }
