@@ -1,0 +1,11 @@
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/mediator/bin/Debug/netcoreapp2.2/mediator.deps.json
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/mediator/bin/Debug/netcoreapp2.2/mediator.runtimeconfig.json
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/mediator/bin/Debug/netcoreapp2.2/mediator.runtimeconfig.dev.json
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/mediator/bin/Debug/netcoreapp2.2/mediator.dll
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/mediator/bin/Debug/netcoreapp2.2/mediator.pdb
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/mediator/obj/Debug/netcoreapp2.2/mediator.csprojAssemblyReference.cache
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/mediator/obj/Debug/netcoreapp2.2/mediator.csproj.CoreCompileInputs.cache
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/mediator/obj/Debug/netcoreapp2.2/mediator.AssemblyInfoInputs.cache
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/mediator/obj/Debug/netcoreapp2.2/mediator.AssemblyInfo.cs
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/mediator/obj/Debug/netcoreapp2.2/mediator.dll
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/mediator/obj/Debug/netcoreapp2.2/mediator.pdb
