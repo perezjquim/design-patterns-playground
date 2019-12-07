@@ -1,0 +1,11 @@
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/command/obj/Debug/netcoreapp2.2/command.csprojAssemblyReference.cache
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/command/obj/Debug/netcoreapp2.2/command.csproj.CoreCompileInputs.cache
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/command/obj/Debug/netcoreapp2.2/command.AssemblyInfoInputs.cache
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/command/obj/Debug/netcoreapp2.2/command.AssemblyInfo.cs
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/command/bin/Debug/netcoreapp2.2/command.deps.json
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/command/bin/Debug/netcoreapp2.2/command.runtimeconfig.json
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/command/bin/Debug/netcoreapp2.2/command.runtimeconfig.dev.json
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/command/bin/Debug/netcoreapp2.2/command.dll
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/command/bin/Debug/netcoreapp2.2/command.pdb
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/command/obj/Debug/netcoreapp2.2/command.dll
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/command/obj/Debug/netcoreapp2.2/command.pdb

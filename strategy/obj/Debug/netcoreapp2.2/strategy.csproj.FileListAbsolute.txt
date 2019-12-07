@@ -1,0 +1,11 @@
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/strategy/bin/Debug/netcoreapp2.2/strategy.deps.json
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/strategy/bin/Debug/netcoreapp2.2/strategy.runtimeconfig.json
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/strategy/bin/Debug/netcoreapp2.2/strategy.runtimeconfig.dev.json
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/strategy/bin/Debug/netcoreapp2.2/strategy.dll
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/strategy/bin/Debug/netcoreapp2.2/strategy.pdb
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/strategy/obj/Debug/netcoreapp2.2/strategy.csprojAssemblyReference.cache
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/strategy/obj/Debug/netcoreapp2.2/strategy.csproj.CoreCompileInputs.cache
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/strategy/obj/Debug/netcoreapp2.2/strategy.AssemblyInfoInputs.cache
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/strategy/obj/Debug/netcoreapp2.2/strategy.AssemblyInfo.cs
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/strategy/obj/Debug/netcoreapp2.2/strategy.dll
+/home/perezjquim/CODINGJOKES/c#/DIS-PRACTICE/strategy/obj/Debug/netcoreapp2.2/strategy.pdb
